@@ -2,7 +2,7 @@
 <record_update sys_domain="global" table="sys_ui_module">
     <sys_ui_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="NeedIt">e636e0864f3713001c04926ca310c7d1</application>
+        <application/>
         <filter/>
         <name>NeedIts</name>
         <order/>
